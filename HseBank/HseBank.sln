@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HseBank", "HseBank\HseBank.csproj", "{8313946C-B45F-4127-98CD-1B8B52DC80A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HseBankTest", "HseBankTest\HseBankTest.csproj", "{940FBAC7-902C-42D1-95B9-3C7B1B9238B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8313946C-B45F-4127-98CD-1B8B52DC80A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8313946C-B45F-4127-98CD-1B8B52DC80A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8313946C-B45F-4127-98CD-1B8B52DC80A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8313946C-B45F-4127-98CD-1B8B52DC80A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940FBAC7-902C-42D1-95B9-3C7B1B9238B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940FBAC7-902C-42D1-95B9-3C7B1B9238B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940FBAC7-902C-42D1-95B9-3C7B1B9238B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940FBAC7-902C-42D1-95B9-3C7B1B9238B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
