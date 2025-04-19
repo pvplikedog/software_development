@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minihw2", "minihw2\minihw2.csproj", "{32AF242F-3734-4FEB-B49F-770F0AED54A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "minihw2Tests", "minihw2Tests\minihw2Tests.csproj", "{4AE7940B-FC96-4A37-A915-7C1B47460FA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AF242F-3734-4FEB-B49F-770F0AED54A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AF242F-3734-4FEB-B49F-770F0AED54A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AF242F-3734-4FEB-B49F-770F0AED54A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AF242F-3734-4FEB-B49F-770F0AED54A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AE7940B-FC96-4A37-A915-7C1B47460FA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE7940B-FC96-4A37-A915-7C1B47460FA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE7940B-FC96-4A37-A915-7C1B47460FA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE7940B-FC96-4A37-A915-7C1B47460FA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

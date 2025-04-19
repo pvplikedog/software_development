@@ -1,0 +1,6 @@
+@minihw2_HostAddress = http://localhost:5261
+
+GET {{minihw2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
